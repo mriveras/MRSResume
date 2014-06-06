@@ -1,0 +1,53 @@
+@font-face{ 
+  font-family: '3dumb';
+  src: url('3Dumb.eot');
+  src: url('3Dumb.eot?iefix') format('eot'),
+       url('3Dumb.woff') format('woff'),
+       url('3Dumb.ttf') format('truetype'),
+       url('3Dumb.svg#webfont') format('svg');
+}
+
+@font-face{ 
+  font-family: 'drawveticamini';
+  src: url('drawveticamini.eot');
+  src: url('drawveticamini.eot?iefix') format('eot'),
+       url('drawveticamini.woff') format('woff'),
+       url('drawveticamini.ttf') format('truetype'),
+       url('drawveticamini.svg#webfont') format('svg');
+}
+
+@font-face{ 
+  font-family: 'mrs-regular';
+  src: url('mrs-regular.eot');
+  src: url('mrs-regular.eot?iefix') format('eot'),
+       url('mrs-regular.woff') format('woff'),
+       url('mrs-regular.ttf') format('truetype'),
+       url('mrs-regular.svg#webfont') format('svg');
+}
+
+@font-face{ 
+  font-family: 'kgsecondchancessketch';
+  src: url('kgsecondchancessketch.eot');
+  src: url('kgsecondchancessketch.eot?iefix') format('eot'),
+       url('kgsecondchancessketch.woff') format('woff'),
+       url('kgsecondchancessketch.ttf') format('truetype'),
+       url('kgsecondchancessketch.svg#webfont') format('svg');
+}
+
+@font-face{ 
+  font-family: 'sketch_book';
+  src: url('sketch_book.eot');
+  src: url('sketch_book.eot?iefix') format('eot'),
+       url('sketch_book.woff') format('woff'),
+       url('sketch_book.ttf') format('truetype'),
+       url('sketch_book.svg#webfont') format('svg');
+}
+
+@font-face{ 
+  font-family: 'Source_Code_Pro';
+  src: url('sourcecodepro.eot');
+  src: url('sourcecodepro.eot?iefix') format('eot'),
+       url('sourcecodepro.woff') format('woff'),
+       url('sourcecodepro.ttf') format('truetype'),
+       url('sourcecodepro.svg#webfont') format('svg');
+}
